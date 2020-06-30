@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="#26911E"
+
+    android:padding="10dp"
+    android:text="Apple"
+    android:textColor="#000000"
+    android:textSize="40sp"
+    android:gravity="left"
+    android:textAlignment="gravity"
+    android:textStyle="bold" />
